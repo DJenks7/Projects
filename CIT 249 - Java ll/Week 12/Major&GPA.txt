@@ -1,0 +1,156 @@
+Student ID:		00006
+First Name:		Daniel
+Last Name:		Crisp
+Major:			CSC
+GPA:			3.2
+Current Classes:	3
+
+Student ID:		11111
+First Name:		Morgan
+Last Name:		Cheek
+Major:			CSC
+GPA:			3.15
+Current Classes:	4
+
+Student ID:		23445
+First Name:		Sadie
+Last Name:		Washington
+Major:			ACC
+GPA:			4.0
+Current Classes:	5
+
+Student ID:		23452
+First Name:		McKayla
+Last Name:		Trucker
+Major:			CSC
+GPA:			4.0
+Current Classes:	4
+
+Student ID:		23454
+First Name:		Zack
+Last Name:		Cheek
+Major:			CSC
+GPA:			3.33
+Current Classes:	4
+
+Student ID:		23478
+First Name:		Aidan
+Last Name:		Travis
+Major:			CSC
+GPA:			3.9
+Current Classes:	3
+
+Student ID:		24466
+First Name:		Katrina
+Last Name:		Franklin
+Major:			ACC
+GPA:			3.8
+Current Classes:	2
+
+Student ID:		32434
+First Name:		Cameron
+Last Name:		Campbell
+Major:			CSC
+GPA:			3.48
+Current Classes:	5
+
+Student ID:		33876
+First Name:		Kayla
+Last Name:		Bigg
+Major:			ACC
+GPA:			3.19
+Current Classes:	4
+
+Student ID:		35490
+First Name:		Mackenzie
+Last Name:		Smith
+Major:			ACC
+GPA:			3.48
+Current Classes:	1
+
+Student ID:		44458
+First Name:		David
+Last Name:		LeBlanc
+Major:			MGT
+GPA:			3.32
+Current Classes:	4
+
+Student ID:		45674
+First Name:		Christian
+Last Name:		Harrison
+Major:			ACC
+GPA:			2.59
+Current Classes:	5
+
+Student ID:		45689
+First Name:		Samara
+Last Name:		Moore
+Major:			MGT
+GPA:			2.98
+Current Classes:	6
+
+Student ID:		48452
+First Name:		Herschal
+Last Name:		Adams
+Major:			MGT
+GPA:			2.77
+Current Classes:	2
+
+Student ID:		55533
+First Name:		Hannah
+Last Name:		Lincoln
+Major:			MGT
+GPA:			2.99
+Current Classes:	3
+
+Student ID:		55555
+First Name:		Rebekah
+Last Name:		Goodlette
+Major:			ACC
+GPA:			2.48
+Current Classes:	5
+
+Student ID:		56578
+First Name:		Zach
+Last Name:		Davidson
+Major:			MGT
+GPA:			2.1
+Current Classes:	6
+
+Student ID:		78477
+First Name:		Steve
+Last Name:		Stephenson
+Major:			ACC
+GPA:			1.08
+Current Classes:	6
+
+Student ID:		83821
+First Name:		Colin
+Last Name:		Johnson
+Major:			ACC
+GPA:			2.57
+Current Classes:	4
+
+Student ID:		85987
+First Name:		Ann
+Last Name:		Franklin
+Major:			CSC
+GPA:			3.0
+Current Classes:	2
+
+Student ID:		89887
+First Name:		Katelin
+Last Name:		Brooks
+Major:			MGT
+GPA:			0.95
+Current Classes:	1
+
+Number of Students in CSC Major: 7
+Average GPA in CSC Major: 3.44
+
+Number of Students in ACC Major: 8
+Average GPA in CSC Major: 2.90
+
+Number of Students in MGT Major: 6
+Average GPA in CSC Major: 2.52
+

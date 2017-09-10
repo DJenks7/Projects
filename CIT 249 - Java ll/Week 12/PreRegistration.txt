@@ -1,0 +1,208 @@
+Student ID:		23452
+First Name:		McKayla
+Last Name:		Trucker
+Major:			CSC
+Course ID:		CIT249
+Course Description:	Java II Programming
+Hours:			3
+
+Student ID:		23452
+First Name:		McKayla
+Last Name:		Trucker
+Major:			CSC
+Course ID:		ENG102
+Course Description:	English Composition II
+Hours:			3
+
+Student ID:		23452
+First Name:		McKayla
+Last Name:		Trucker
+Major:			CSC
+Course ID:		HIS108
+Course Description:	U.S. History Before 1865
+Hours:			3
+
+Student ID:		23452
+First Name:		McKayla
+Last Name:		Trucker
+Major:			CSC
+Course ID:		MAT114
+Course Description:	Calculus II
+Hours:			5
+
+Student ID:		23478
+First Name:		Aidan
+Last Name:		Travis
+Major:			CSC
+Course ID:		CIT149
+Course Description:	Java I Programming
+Hours:			3
+
+Student ID:		23478
+First Name:		Aidan
+Last Name:		Travis
+Major:			CSC
+Course ID:		ENG101
+Course Description:	English Composition 1
+Hours:			3
+
+Student ID:		23478
+First Name:		Aidan
+Last Name:		Travis
+Major:			CSC
+Course ID:		HIS108
+Course Description:	U.S. History Before 1865
+Hours:			3
+
+Student ID:		23478
+First Name:		Aidan
+Last Name:		Travis
+Major:			CSC
+Course ID:		POL120
+Course Description:	European Politics
+Hours:			3
+
+Student ID:		33541
+First Name:		Austin
+Last Name:		Adams
+Major:			MAT
+Course ID:		ENG101
+Course Description:	English Composition 1
+Hours:			3
+
+Student ID:		33541
+First Name:		Austin
+Last Name:		Adams
+Major:			MAT
+Course ID:		HIS108
+Course Description:	U.S. History Before 1865
+Hours:			3
+
+Student ID:		33541
+First Name:		Austin
+Last Name:		Adams
+Major:			MAT
+Course ID:		MAT113
+Course Description:	Calculus I
+Hours:			5
+
+Student ID:		45674
+First Name:		Christian
+Last Name:		Harrison
+Major:			ACC
+Course ID:		CIT149
+Course Description:	Java I Programming
+Hours:			3
+
+Student ID:		45674
+First Name:		Christian
+Last Name:		Harrison
+Major:			ACC
+Course ID:		ENG102
+Course Description:	English Composition II
+Hours:			3
+
+Student ID:		45674
+First Name:		Christian
+Last Name:		Harrison
+Major:			ACC
+Course ID:		POL120
+Course Description:	European Politics
+Hours:			3
+
+Student ID:		55557
+First Name:		Chance
+Last Name:		Washington
+Major:			SPA
+Course ID:		ENG101
+Course Description:	English Composition 1
+Hours:			3
+
+Student ID:		55557
+First Name:		Chance
+Last Name:		Washington
+Major:			SPA
+Course ID:		HIS109
+Course Description:	U.S. History After 1865
+Hours:			3
+
+Student ID:		55557
+First Name:		Chance
+Last Name:		Washington
+Major:			SPA
+Course ID:		MAT213
+Course Description:	Calculus III
+Hours:			4
+
+Student ID:		55557
+First Name:		Chance
+Last Name:		Washington
+Major:			SPA
+Course ID:		SPA101
+Course Description:	Spanish I
+Hours:			3
+
+Student ID:		58844
+First Name:		Haylee
+Last Name:		Harris
+Major:			SPA
+Course ID:		HIS109
+Course Description:	U.S. History After 1865
+Hours:			3
+
+Student ID:		58844
+First Name:		Haylee
+Last Name:		Harris
+Major:			SPA
+Course ID:		MAT113
+Course Description:	Calculus I
+Hours:			5
+
+Student ID:		58844
+First Name:		Haylee
+Last Name:		Harris
+Major:			SPA
+Course ID:		POL110
+Course Description:	American Politics
+Hours:			3
+
+Student ID:		58844
+First Name:		Haylee
+Last Name:		Harris
+Major:			SPA
+Course ID:		SPA201
+Course Description:	Spanish III
+Hours:			3
+
+Student ID:		89887
+First Name:		Katelin
+Last Name:		Brooks
+Major:			MGT
+Course ID:		CIT105
+Course Description:	Introduction to Computers
+Hours:			3
+
+Student ID:		89887
+First Name:		Katelin
+Last Name:		Brooks
+Major:			MGT
+Course ID:		HIS109
+Course Description:	U.S. History After 1865
+Hours:			3
+
+Student ID:		89887
+First Name:		Katelin
+Last Name:		Brooks
+Major:			MGT
+Course ID:		POL110
+Course Description:	American Politics
+Hours:			3
+
+Student ID:		89887
+First Name:		Katelin
+Last Name:		Brooks
+Major:			MGT
+Course ID:		SPA102
+Course Description:	Spanish II
+Hours:			3
+

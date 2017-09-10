@@ -1,0 +1,468 @@
+ID:		51
+First Name:	Daniel
+Middle:		W
+Last Name:	Perry
+City:		Nicholasville
+State:		KY
+Birthday:	8/1/1989
+Card Type:	MasterCard
+
+ID:		102
+First Name:	Susan
+Middle:		T
+Last Name:	Harmon
+City:		Lexington
+State:		KY
+Birthday:	10/25/1956
+Card Type:	Visa
+
+ID:		128
+First Name:	James
+Middle:		S
+Last Name:	Brown
+City:		Stearns
+State:		KY
+Birthday:	1/28/1938
+Card Type:	Visa
+
+ID:		165
+First Name:	Jessica
+Middle:		I
+Last Name:	Stewart
+City:		Cave City
+State:		KY
+Birthday:	7/11/1956
+Card Type:	MasterCard
+
+ID:		243
+First Name:	Dennis
+Middle:		I
+Last Name:	Penson
+City:		Lexington
+State:		KY
+Birthday:	2/6/1995
+Card Type:	Visa
+
+ID:		278
+First Name:	John
+Middle:		A
+Last Name:	Murley
+City:		Elizabethtown
+State:		KY
+Birthday:	7/24/1978
+Card Type:	Visa
+
+ID:		335
+First Name:	Linda
+Middle:		A
+Last Name:	Dibenedetto
+City:		Louisville
+State:		KY
+Birthday:	7/10/1976
+Card Type:	MasterCard
+
+ID:		381
+First Name:	Michael
+Middle:		T
+Last Name:	Eaton
+City:		Louisville
+State:		KY
+Birthday:	9/26/1987
+Card Type:	Visa
+
+ID:		430
+First Name:	Rhoda
+Middle:		R
+Last Name:	Tuten
+City:		Louisville
+State:		KY
+Birthday:	10/30/1979
+Card Type:	Visa
+
+ID:		498
+First Name:	Jenny
+Middle:		W
+Last Name:	Guerrero
+City:		Somerset
+State:		KY
+Birthday:	8/20/1932
+Card Type:	MasterCard
+
+ID:		509
+First Name:	Melissa
+Middle:		S
+Last Name:	Jolly
+City:		Lucas
+State:		KY
+Birthday:	9/12/1974
+Card Type:	MasterCard
+
+ID:		537
+First Name:	Eva
+Middle:		C
+Last Name:	Rix
+City:		Louisville
+State:		KY
+Birthday:	8/23/1938
+Card Type:	Visa
+
+ID:		573
+First Name:	Rebecca
+Middle:		J
+Last Name:	White
+City:		Tollesboro
+State:		KY
+Birthday:	3/29/1989
+Card Type:	MasterCard
+
+ID:		576
+First Name:	Robert
+Middle:		L
+Last Name:	Grady
+City:		Elizabethtown
+State:		KY
+Birthday:	8/8/1959
+Card Type:	Visa
+
+ID:		591
+First Name:	Diane
+Middle:		L
+Last Name:	Coelho
+City:		Winchester
+State:		KY
+Birthday:	2/12/1993
+Card Type:	MasterCard
+
+ID:		605
+First Name:	Daisy
+Middle:		H
+Last Name:	Balke
+City:		Covington
+State:		KY
+Birthday:	11/26/1935
+Card Type:	Visa
+
+ID:		628
+First Name:	John
+Middle:		A
+Last Name:	Gusman
+City:		Lexington
+State:		KY
+Birthday:	3/22/1944
+Card Type:	MasterCard
+
+ID:		651
+First Name:	Ruth
+Middle:		M
+Last Name:	Moon
+City:		Independence
+State:		KY
+Birthday:	10/22/1942
+Card Type:	MasterCard
+
+ID:		739
+First Name:	Sheldon
+Middle:		P
+Last Name:	Smith
+City:		Paducah
+State:		KY
+Birthday:	7/24/1930
+Card Type:	MasterCard
+
+ID:		813
+First Name:	Ryan
+Middle:		L
+Last Name:	Scott
+City:		Lexington
+State:		KY
+Birthday:	2/3/1967
+Card Type:	MasterCard
+
+ID:		997
+First Name:	Donna
+Middle:		D
+Last Name:	Calhoun
+City:		Lawrenceburg
+State:		KY
+Birthday:	6/17/1953
+Card Type:	Visa
+
+ID:		1009
+First Name:	Robert
+Middle:		A
+Last Name:	Wheatley
+City:		Lexington
+State:		KY
+Birthday:	10/19/1958
+Card Type:	MasterCard
+
+ID:		1010
+First Name:	Margaret
+Middle:		M
+Last Name:	Everitt
+City:		Madisonville
+State:		KY
+Birthday:	1/30/1965
+Card Type:	MasterCard
+
+ID:		1043
+First Name:	Laura
+Middle:		E
+Last Name:	London
+City:		Hazard
+State:		KY
+Birthday:	6/12/1940
+Card Type:	MasterCard
+
+ID:		1075
+First Name:	Ellen
+Middle:		R
+Last Name:	Bangert
+City:		Maysville
+State:		KY
+Birthday:	10/8/1988
+Card Type:	MasterCard
+
+ID:		1078
+First Name:	Marie
+Middle:		R
+Last Name:	Cavazos
+City:		Bowling Green
+State:		KY
+Birthday:	1/13/1958
+Card Type:	MasterCard
+
+ID:		1290
+First Name:	George
+Middle:		E
+Last Name:	England
+City:		Edmonton
+State:		KY
+Birthday:	1/9/1938
+Card Type:	MasterCard
+
+ID:		1350
+First Name:	Rebecca
+Middle:		J
+Last Name:	Corrado
+City:		Lexington
+State:		KY
+Birthday:	9/24/1945
+Card Type:	MasterCard
+
+ID:		1404
+First Name:	Brian
+Middle:		A
+Last Name:	Taylor
+City:		Nebo
+State:		KY
+Birthday:	6/4/1981
+Card Type:	MasterCard
+
+ID:		1412
+First Name:	Robert
+Middle:		M
+Last Name:	Arce
+City:		Hazel
+State:		KY
+Birthday:	5/12/1935
+Card Type:	Visa
+
+ID:		1431
+First Name:	Joseph
+Middle:		T
+Last Name:	Belcher
+City:		Louisville
+State:		KY
+Birthday:	7/25/1970
+Card Type:	Visa
+
+ID:		1450
+First Name:	Jeannie
+Middle:		M
+Last Name:	Santos
+City:		Louisville
+State:		KY
+Birthday:	5/22/1971
+Card Type:	Visa
+
+ID:		1536
+First Name:	Miguel
+Middle:		M
+Last Name:	Crumbley
+City:		Lexington
+State:		KY
+Birthday:	11/15/1981
+Card Type:	Visa
+
+ID:		1636
+First Name:	Myrle
+Middle:		S
+Last Name:	Marsh
+City:		Louisville
+State:		KY
+Birthday:	1/18/1963
+Card Type:	Visa
+
+ID:		1721
+First Name:	Byron
+Middle:		M
+Last Name:	Carberry
+City:		Island
+State:		KY
+Birthday:	11/6/1958
+Card Type:	MasterCard
+
+ID:		1800
+First Name:	David
+Middle:		M
+Last Name:	Lewis
+City:		Bowling Green
+State:		KY
+Birthday:	9/4/1993
+Card Type:	Visa
+
+ID:		1900
+First Name:	Jerry
+Middle:		M
+Last Name:	Hampton
+City:		Lexington
+State:		KY
+Birthday:	1/2/1946
+Card Type:	Visa
+
+ID:		1940
+First Name:	Steven
+Middle:		K
+Last Name:	Hartfield
+City:		Louisville
+State:		KY
+Birthday:	7/14/1955
+Card Type:	MasterCard
+
+ID:		2072
+First Name:	Justin
+Middle:		B
+Last Name:	Catalano
+City:		Louisville
+State:		KY
+Birthday:	2/4/1976
+Card Type:	MasterCard
+
+ID:		2073
+First Name:	Douglas
+Middle:		L
+Last Name:	Hagopian
+City:		Louisville
+State:		KY
+Birthday:	3/26/1965
+Card Type:	MasterCard
+
+ID:		2193
+First Name:	James
+Middle:		E
+Last Name:	Wallace
+City:		Louisville
+State:		KY
+Birthday:	8/7/1942
+Card Type:	Visa
+
+ID:		2215
+First Name:	Jamie
+Middle:		B
+Last Name:	Traverso
+City:		Sorgho
+State:		KY
+Birthday:	7/18/1928
+Card Type:	MasterCard
+
+ID:		2340
+First Name:	Alice
+Middle:		M
+Last Name:	Story
+City:		Lexington
+State:		KY
+Birthday:	2/9/1936
+Card Type:	Visa
+
+ID:		2437
+First Name:	Betty
+Middle:		S
+Last Name:	Frances
+City:		Winchester
+State:		KY
+Birthday:	9/8/1935
+Card Type:	MasterCard
+
+ID:		2515
+First Name:	Gertrude
+Middle:		H
+Last Name:	Corley
+City:		Gilbertsville
+State:		KY
+Birthday:	6/7/1932
+Card Type:	MasterCard
+
+ID:		2600
+First Name:	Salvador
+Middle:		C
+Last Name:	Kees
+City:		Louisville
+State:		KY
+Birthday:	6/18/1938
+Card Type:	MasterCard
+
+ID:		2688
+First Name:	Janet
+Middle:		J
+Last Name:	Welton
+City:		Louisville
+State:		KY
+Birthday:	2/18/1958
+Card Type:	MasterCard
+
+ID:		2739
+First Name:	Eleanor
+Middle:		D
+Last Name:	Jones
+City:		Cincinnati
+State:		KY
+Birthday:	5/26/1946
+Card Type:	MasterCard
+
+ID:		2822
+First Name:	Guillermo
+Middle:		K
+Last Name:	Harris
+City:		Paris
+State:		KY
+Birthday:	12/26/1990
+Card Type:	Visa
+
+ID:		2853
+First Name:	Jamie
+Middle:		M
+Last Name:	Ayers
+City:		Louisville
+State:		KY
+Birthday:	12/13/1925
+Card Type:	MasterCard
+
+ID:		2864
+First Name:	Susan
+Middle:		W
+Last Name:	Igo
+City:		Louisville
+State:		KY
+Birthday:	5/27/1975
+Card Type:	MasterCard
+
+ID:		2914
+First Name:	Claire
+Middle:		R
+Last Name:	Martinez
+City:		Winchester
+State:		KY
+Birthday:	3/4/1981
+Card Type:	Visa
+
