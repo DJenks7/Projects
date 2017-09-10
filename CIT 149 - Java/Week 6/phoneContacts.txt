@@ -1,0 +1,35 @@
+Adams#Marilyn#8233331109#0#0#N
+Anderson#John#5025559980#20#15#N
+Baker-Brown#Angelica#9021329944#0#3#N
+Bruin#Joseph Allen#8592541109#11#5#Y	
+Carrolton#Louise#1079081009#4#0#N
+Crisman#Francois#8591110980#11#10#Y
+Davidson#George#5011231241#30#28#Y
+Davis#Patrick#5021244829#5#9#N
+Davis#Robert Ray#8591039492#12#0#N
+Engles#Anne Marie#8591232111#17#11#Y
+Engles#Kimberly#8591232110#16#10#N
+Franklin#Polly#5024823482#8#8#N
+Garrison#Henri#5028631678#1#10#Y
+Homestead#Erica#6062332344#14#15#Y
+Jackson#Camille#8595351288#57#68#Y
+Kingston#Samuel#8595359990#4#19#N
+Lovelace#Semone#5022709000#0#89#N
+Moore#Henre#9082278023#6#9#N
+Moore#Pierre#9082278888#55#30#Y
+Noonan#Lyndsay#9082271110#3#33#Y
+Pratt#Paula#7672778723#0#1#N
+Queensly#Robert#5024499944#61#23#Y
+Robertson#Victor#8595355353#0#0#N
+Smith#Henri#8593380098#2#1#N
+Smith#Karletta#8592230876#2#3#N
+Smith#Murfey#8592230987#10#15#Y
+Tucker#Amber#8593556870#2#0#N
+Tucker#Victor#5027780008#0#0#N
+Underwood#Fred#5025551234#0#1#Y
+Voltz#Victoria#5025358630#19#0#Y
+White#George#5025553412#8#2#N
+White#Victoria#5024529898#2#2#N
+Woods#Scott#6064843399#23#9#Y
+Woodson#Bill#6065553345#18#0#N
+Young#Julia#7093451129#15#11#Y
