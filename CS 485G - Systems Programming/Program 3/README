@@ -1,0 +1,37 @@
+DESCRIPTION
+This project as a whole is designed to act as a Cloud File Storage Server
+and the Client programs corresponding to each action available
+(store a file, retrieve a file, delete a file, and list files) to the Client.
+All programs take command line arguments (ranging from 2-3 arguments).
+
+Using provided Makefile, type "make" at command line to compile.
+
+server.c <TCPport> <SecretKey> 							--> The server
+mcget.c <Machine Name> <TCPport> <SecretKey> <filename> --> Retrieve a file
+mcput.c <Machine Name> <TCPport> <SecretKey> <filename> --> Save a file
+mcdel.c <Machine Name> <TCPport> <SecretKey> <filename> --> Delete a file
+mclist.c <Machine Name> <TCPport> <SecretKey>			--> List files
+
+ALGORITHMS
+The only algorithms I used were the following...
+
+- Given from csapp.c
+	Rio_readnb();		Used to read data from the Client/Server
+	Rio_writen();		Used to write data to the Client/Server.
+	Fputs()/Fgets();	Used to write/read data to/from stdout/stdin.
+
+- My created algorithms
+	Print_State();		Used to print the program state to the server
+						before closing Client connection.
+
+LIMITATIONS
+At this very moment the limitations I am aware of are the following...
+
+- mcdel works BUT leaves a blank spot in the deleted space...
+	working on fixing this.
+
+- The char array that holds the Server files and filenames is not
+	initalized with calloc/malloc, I was having issues declaring it.
+
+- If the server fails to recieve the Accept call, the program simply fails
+	and does NOT print the program state.

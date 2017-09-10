@@ -1,0 +1,64 @@
+Dylan Jenkins           CS 485
+Program Assignment 4    11/6/2016
+main.c
+
+This program is designed to act as a very simple shell with options to set an enviroment variable,
+change the prompt displayed to the user, change directory to the user input directory, list active
+background processes, run/execute a program, assign an enviroment variable to a programs output
+and lastly, an option to quit the program.
+
+Valid commands:
+
+	%                       -> comment
+        set variable value      -> sets given input value to given input variable.
+        defprompt prompt        -> sets the prompt to given input prompt.
+        cd directoryName        -> changes directory to given input directoryName.
+        listprocs               -> lists the background processes.
+        done                    -> exits.
+
+        run cmd param [&]       -> run program given input cmd with optional
+        				given input param and optional flag (&) to run in the background.
+
+        assignto variable cmd param     -> runs program given input cmd, with optional given input param and
+                                                        sets the output to given input variable.
+
+SPECIAL FEATURE:
+Calling cd with no parameters changes to the home directory.
+
+
+LIMITATIONS:
+When user sets a variable if they input " " with the value the variable will contain " "
+
+
+Throughout the program I used many algorithms, none that I was aware had a specific name.
+
+ALGORITHMS/FUNCTIONS
+main: simply calls a loop to run while the user has not input exit commands.
+
+void sish_loop: just continuously displays the prompt, reads input form user, breaks it into tokens,
+	and then searches through a valid command list to see if the user input a valid command.
+
+char sish_read_line: algorithm used to accept user input and load the input into character pointer (string). 
+
+char sish_split_line: algorithm used to split the "string" into tokens in an "array" style character pointer
+
+int sish_execute: algorithm used to check user input for valid built in command and execute it.
+
+int sish_comment: simply ignores statements input beginning with %
+
+int sish_cd: algorithm used to change directories based on user input.
+
+int sish_set: algorithm used to set an enviroment variable.
+
+int sish_defprompt: algorithm used to alter the display prompt to user input.
+
+int sish_processes: algorithm used to list active background processses if there are any.
+
+int sish_launch: algorithm used to execute a program from user input.
+
+int sish_assignto: algorithm used to assign the output of a program to an enviroment variable accessible by the user.
+
+int sish_done: simply exits the program.
+
+
+
