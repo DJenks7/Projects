@@ -1,0 +1,16 @@
+To run, type make to execute Makefile.
+Executing the Makefile will create an executable file.
+
+Then run the executable file with three arguments.
+	1.	Forwarding Table.
+	2.	Packets to be Forwarded.	
+	3.	Name of file containing output IP packets.
+
+CORRECT SYNTAX
+	./Program2 [Forwarding Table].txt [Packets to be Forwarded] [Output IP Packets]
+
+Before the program can run correctly, it must have valid parameters. Where the first parameter
+is the file name of the forwarding table, the second parameter is the name of the file containing
+several IP packets, and the third parameter is the name of a file containing output IP packets.
+The program when run correctly will process each packet in the files given and determine their correct
+destination to be forwarded to.
