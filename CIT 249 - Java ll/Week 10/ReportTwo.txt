@@ -1,0 +1,10 @@
+Name:		Stephen Davidson
+Average:	42.39%
+Final Exam:	51
+Difference:	8.61
+
+Name:		Adam Evans
+Average:	61.69%
+Final Exam:	98
+Difference:	36.31
+

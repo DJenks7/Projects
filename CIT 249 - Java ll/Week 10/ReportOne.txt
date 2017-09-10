@@ -1,0 +1,284 @@
+Name:		Olivi Adams
+Average:	65.54%
+
+Name:		Kimberly Smith
+Average:	55.71%
+
+Name:		Aaron Fenandez
+Average:	66.97%
+
+Name:		James Brown
+Average:	70.76%
+
+Name:		Brianna Brown
+Average:	59.26%
+
+Name:		Fred Johnson
+Average:	50.87%
+
+Name:		George Henry
+Average:	47.01%
+
+Name:		Juan Murphy
+Average:	62.08%
+
+Name:		Mitch Shultz
+Average:	51.67%
+
+Name:		Charles Nelson
+Average:	56.79%
+
+Name:		James Nelson
+Average:	54.18%
+
+Name:		Erica Peak
+Average:	58.10%
+
+Name:		Shawn Davis
+Average:	67.47%
+
+Name:		Stephen Davidson
+Average:	42.39%
+
+Name:		Gine Davidson
+Average:	54.82%
+
+Name:		John Brown
+Average:	63.26%
+
+Name:		Aaron Ruge
+Average:	64.81%
+
+Name:		Dianna Smith
+Average:	59.96%
+
+Name:		Molly Smithers
+Average:	74.18%
+
+Name:		Kayla Smithers
+Average:	61.48%
+
+Name:		Lisa Farrell
+Average:	70.39%
+
+Name:		Andrew Flynn
+Average:	57.94%
+
+Name:		Ryan Grahan
+Average:	67.73%
+
+Name:		Ronald Graves
+Average:	56.19%
+
+Name:		Karla Anderson
+Average:	72.54%
+
+Name:		Charles Caudill
+Average:	65.91%
+
+Name:		Heather Cowden
+Average:	69.67%
+
+Name:		Jerome Daniels
+Average:	45.89%
+
+Name:		Sarah Dressman
+Average:	48.51%
+
+Name:		Adam Evans
+Average:	61.69%
+
+Name:		Jackie Forbes
+Average:	64.21%
+
+Name:		Rhonda Roberts
+Average:	60.92%
+
+Name:		Christopher Stith
+Average:	62.87%
+
+Name:		Clare Stealth
+Average:	61.19%
+
+Name:		William Thomas
+Average:	58.52%
+
+Name:		Natalie Thompson
+Average:	60.97%
+
+Name:		Larry Trick
+Average:	64.00%
+
+Name:		Lisa Hernandez
+Average:	58.50%
+
+Name:		James Isaacs
+Average:	61.47%
+
+Name:		Allison Malta
+Average:	61.05%
+
+Name:		Leah Ray
+Average:	53.46%
+
+Name:		Bruce Mink
+Average:	65.59%
+
+Name:		Magdalen Minke
+Average:	67.76%
+
+Name:		Carol Walker
+Average:	59.30%
+
+Name:		Christopher Young
+Average:	66.93%
+
+Name:		Charles Summers
+Average:	70.79%
+
+Name:		Sheila Sumner
+Average:	67.62%
+
+Name:		Marlena Turner
+Average:	71.78%
+
+Name:		Scotty Janes
+Average:	61.70%
+
+Name:		Paul Maddox
+Average:	70.59%
+
+Name:		Ashley Peal
+Average:	58.94%
+
+Name:		Sean Peel
+Average:	57.07%
+
+Name:		Brittany Robertson
+Average:	65.51%
+
+Name:		Katie Votaw
+Average:	61.23%
+
+Name:		Luis Watson
+Average:	56.90%
+
+Name:		Russell Walker
+Average:	49.33%
+
+Name:		Stephanie Walker
+Average:	76.75%
+
+Name:		Thomas Evans
+Average:	59.12%
+
+Name:		Janssen Graves
+Average:	65.37%
+
+Name:		Edward Garrett
+Average:	65.64%
+
+Name:		Shannon Hicks
+Average:	62.88%
+
+Name:		William Back
+Average:	61.89%
+
+Name:		Barbara Brown
+Average:	62.93%
+
+Name:		Natasha Black
+Average:	62.29%
+
+Name:		Louis Franklin
+Average:	64.63%
+
+Name:		Amy Lake
+Average:	61.34%
+
+Name:		Travis Lawson
+Average:	66.77%
+
+Name:		David Johnson
+Average:	63.54%
+
+Name:		Vivian Jones
+Average:	72.27%
+
+Name:		Joshua Johnson
+Average:	69.69%
+
+Name:		Ashley Martin
+Average:	66.03%
+
+Name:		Farrah Marks
+Average:	60.42%
+
+Name:		Ronnie Boggs
+Average:	66.70%
+
+Name:		Kara Biggers
+Average:	67.55%
+
+Name:		John Nunn
+Average:	45.50%
+
+Name:		Diana Wilson
+Average:	53.93%
+
+Name:		Molly Bastin
+Average:	60.01%
+
+Name:		Kayla Booger
+Average:	66.36%
+
+Name:		Susan Shay
+Average:	63.06%
+
+Name:		Lakesha Shea
+Average:	68.99%
+
+Name:		Brian Ward
+Average:	57.58%
+
+Name:		Karen Smith
+Average:	46.90%
+
+Name:		Jeri Adams
+Average:	63.93%
+
+Name:		Lisabeth Bengals
+Average:	47.61%
+
+Name:		John Scott
+Average:	66.06%
+
+Name:		Margaret Ball
+Average:	73.01%
+
+Name:		Stephen Gaston
+Average:	69.32%
+
+Name:		Santy Newland
+Average:	54.05%
+
+Name:		Stacy Manning
+Average:	62.37%
+
+Name:		Frances McIntosh
+Average:	57.42%
+
+Name:		Melynn Jones
+Average:	66.28%
+
+Name:		Kamla Kelley
+Average:	65.63%
+
+Name:		Amy Manning
+Average:	70.72%
+
+Name:		Kristen Ramsey
+Average:	56.77%
+
+Number of Students Who Earned an
+A: 0   B: 0   C: 11   D: 51   E: 32
